@@ -1,0 +1,1 @@
+A classic game of Hangman implemented in Python. This game allows users to guess a word by inputting individual letters. For each incorrect guess, a part of a hangman figure is drawn. The game continues until the word is guessed or the hangman figure is complete.
